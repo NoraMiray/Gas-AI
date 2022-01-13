@@ -8,12 +8,19 @@ Finally, using data warehousing and mathematical formulas, we can examine and pr
 
 ## What can this formula do?
 This formula considers the following:
-  a. How much energy is wasted in the house?
-  b. What is the temperature of the house?
-  c. What is the comfort temperature of the house?
-  d. What are the barriers and possibilities for gas consumption in the place?
-  e. What barriers and facilities have existed for gas consumption in the past?
-  f. How many people are in the house?
+
+      a. How much energy is wasted in the house?
+
+      b. What is the temperature of the house?
+
+      c. What is the comfort temperature of the house?
+
+      d. What are the barriers and possibilities for gas consumption in the place?
+
+      e. What barriers and facilities have existed for gas consumption in the past?
+
+      f. How many people are in the house?
+
 All these views can be found using only three data: temperature, area and consumption
 
 To check out the math formula, please visit the wiki page
